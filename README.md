@@ -177,12 +177,8 @@ All prices verified from commercial sources (February 2026):
 
 ## 📸 Screenshots
 
-> *Add screenshots here after deployment*
-
-```
-[ Dashboard screenshot ]    [ City analysis screenshot ]
-[ AI Report screenshot  ]   [ Export panel screenshot  ]
-```
+![Dashboard](assets/screenshots/dashboard.png)
+![City Detail](assets/screenshots/city_detail.png)
 
 ---
 
