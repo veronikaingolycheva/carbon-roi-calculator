@@ -1,0 +1,11 @@
+City,State,Population,Benches,Climate Zone,Climate Multiplier,Traditional Material,Traditional TCO ($),Carbon Fiber TCO ($),Net Savings ($),Savings (%),Break-Even Year,Trad Replacements,CF Replacements,CO2 Avoided (tons),Waste Prevented (tons),Cars Off Road,Trees Equivalent,Analysis Date
+New York,NY,8336817,33347,Humid Continental,0.75,Powder Coated Steel,314795680,96706300,218089380,69.3,1,4,1,3775.5,6802.8,821,169900,2026-03-01
+Los Angeles,CA,3979576,15918,Mediterranean/Arid,0.95,Powder Coated Steel,127853376,46162200,81691176,63.9,1,3,1,1201.5,2164.8,261,54067,2026-03-01
+Chicago,IL,2696555,10786,Continental/Harsh,0.7,Powder Coated Steel,101819840,31279400,70540440,69.3,1,4,1,1221.2,2200.3,265,54954,2026-03-01
+Houston,TX,2304580,9218,Humid Subtropical,0.75,Powder Coated Steel,87017920,26732200,60285720,69.3,1,4,1,1043.7,1880.5,227,46965,2026-03-01
+Phoenix,AZ,1608139,4824,Desert/Hot,0.9,Powder Coated Steel,38746368,13989600,24756768,63.9,1,3,1,364.1,656.1,79,16385,2026-03-01
+San Francisco,CA,873965,4370,Mild/Coastal,0.85,Powder Coated Steel,35099840,12673000,22426840,63.9,1,3,1,329.8,594.3,72,14843,2026-03-01
+Seattle,WA,749256,3746,Temperate/Wet,0.8,Powder Coated Steel,30087872,10863400,19224472,63.9,1,3,1,282.7,509.5,61,12724,2026-03-01
+Washington,DC,689545,3448,Humid Subtropical,0.8,Powder Coated Steel,27694336,9999200,17695136,63.9,1,3,1,260.3,468.9,57,11711,2026-03-01
+Miami,FL,442241,2653,Subtropical/Humid,0.72,Powder Coated Steel,25044320,7693700,17350620,69.3,1,4,1,300.4,541.2,65,13517,2026-03-01
+Fort Lauderdale,FL,182437,1095,Subtropical/Coastal,0.7,Powder Coated Steel,10336800,3175500,7161300,69.3,1,4,1,124.0,223.4,27,5579,2026-03-01
