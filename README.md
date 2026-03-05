@@ -178,8 +178,9 @@ All prices verified from commercial sources (February 2026):
 ## 📸 Screenshots
 
 ![Dashboard](assets/screenshots/dashboard.png)
-![City Detail](assets/screenshots/city_detail.png)
-
+![Dashboard Detail](assets/screenshots/dashboard1.png)
+![City Detail](assets/screenshots/citydetail.png)
+![Export](assets/screenshots/export.png)
 ---
 
 ## 🗺️ Roadmap
