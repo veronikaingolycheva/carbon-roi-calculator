@@ -2,7 +2,7 @@
 
 > An autonomous AI agent that analyzes the financial and environmental impact of switching from traditional urban furniture to carbon fiber alternatives — across 10 major US cities.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Available-10b981?style=flat-square)](https://your-demo-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-10b981?style=flat-square)](https://carbon-roi-calculator-5tka2um9yy9s5bcu7awzcj.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![Anthropic](https://img.shields.io/badge/Anthropic_API-Claude-orange?style=flat-square)](https://anthropic.com)
@@ -210,7 +210,7 @@ Built by **Veronika Ingolycheva** as a portfolio project demonstrating:
 - Full-stack development (React + Python)
 - Domain expertise in municipal infrastructure and sustainability
 
-**Connect:** [LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:veronika.ingolyche@gmail.com)
+**Connect:** [LinkedIn](https://linkedin.com/in/veronikaingolycheva) · [Live Demo](https://carbon-roi-calculator-5tka2um9yy9s5bcu7awzcj.streamlit.app/) · [GitHub](https://github.com/veronikaingolycheva/carbon-roi-calculator)
 
 ---
 
